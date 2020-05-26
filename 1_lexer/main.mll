@@ -1,4 +1,4 @@
-{ 
+{  
 let line_number = ref 1
 let commentFlag = ref 0 (*0 indicates outside comment section; 1 indicates inside comment section; 2 indicates single line comment*)
 type token =            (*list token names*)
