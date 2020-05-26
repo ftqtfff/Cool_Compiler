@@ -1,4 +1,4 @@
-%{ (* The header section is for type declaration *)
+%{ (* The header section is for type declaration *) 
 open Printf (*import module*)
 type identifier = string * string (* line number + lexeme *)
 type cool_class = 
